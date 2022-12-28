@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using TwitterStatistics.Shared.Data.Models;
 
 namespace TwitterApiClient
 {
