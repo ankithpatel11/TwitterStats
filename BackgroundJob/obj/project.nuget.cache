@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkqH5ZRcW/fVgs9ku/ZjyIJck+/DkfZV06m/0dkCNbFfdSy2UF2vbQgPnhVWuSu1EQrAppAqircv3Mc2W0rotA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankit.patel1.STGI\\Downloads\\repos\\TwitterStats-main\\TwitterStats-main\\BackgroundJob\\BackgroundJob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankit.patel1.STGI\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ankit.patel1.STGI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ankit.patel1.STGI\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ankit.patel1.STGI\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ankit.patel1.STGI\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\ankit.patel1.STGI\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

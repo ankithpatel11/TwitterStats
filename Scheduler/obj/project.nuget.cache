@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p99sDm0qikeNKltrXL5uyUEEgkiMVKcG0/odHsBOZ0QnDRm72EAnvkn/peyXpLqff8DRV7hUywfRLlDHGVP+mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankit.patel1.STGI\\Downloads\\repos\\TwitterStats-main\\TwitterStats-main\\Scheduler\\Scheduler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankit.patel1.STGI\\.nuget\\packages\\fluentscheduler\\5.5.1\\fluentscheduler.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

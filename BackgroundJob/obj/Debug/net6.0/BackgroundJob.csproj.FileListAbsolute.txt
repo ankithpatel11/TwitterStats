@@ -1,0 +1,12 @@
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\bin\Debug\net6.0\BackgroundJob.deps.json
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\bin\Debug\net6.0\BackgroundJob.dll
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\bin\Debug\net6.0\BackgroundJob.pdb
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\BackgroundJob.csproj.AssemblyReference.cache
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\BackgroundJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\BackgroundJob.AssemblyInfoInputs.cache
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\BackgroundJob.AssemblyInfo.cs
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\BackgroundJob.csproj.CoreCompileInputs.cache
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\BackgroundJob.dll
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\refint\BackgroundJob.dll
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\BackgroundJob.pdb
+C:\Users\ankit.patel1.STGI\Downloads\repos\TwitterStats-main\TwitterStats-main\BackgroundJob\obj\Debug\net6.0\ref\BackgroundJob.dll
